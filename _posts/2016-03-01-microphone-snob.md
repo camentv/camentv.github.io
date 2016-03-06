@@ -1,10 +1,13 @@
 ---
 layout:     post
-title:      I'm a microphone snob! 
-date:       2016-03--1T22:17:23-08:00
+title:      I'm a microphone snob!
+permalink:  /microphone-snob/ 
+date:       2016-03-01T22:17:23-08:00
 summary:    Actually, it's hard to be a snob when you're on a budget. :) But I still wanted a good condenser mic for my new DSLR. Here's why I chose Shure instead of Rode.
 categories:
 ---
+
+Actually, it's hard to be a snob when you're on a budget. :) But I still wanted a good condenser mic for my new DSLR. Here's why I chose Shure instead of Rode.
 
 I’m attempting to get a good clean audio track when recording in enclosed environments. I want to minimize noise and make the best possible audio for my comedy videos so of course everyone can understand me without resorting to using subtitles. 
 

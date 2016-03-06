@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      How I chose the right lighting for video.
+permalink:  /lighting-for-video/
 date:       2016-02-28T20:46:23-08:00
 summary:    I'm trying to keep things simple. I also like a good bargain. In this case, I got the wrong type of lighting at first, but now I'm happy with what I got. Read about my saga learning about lighting for video. 
 categories:
