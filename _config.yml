@@ -1,16 +1,18 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       CamenTV
+email:       camen.tv@gmail.com
+author:      Joey Camen
+description: "Video Home of Joey Camen - Voice Actor · Comedian · Writer"
 date_format: "%b %-d, %Y"
+locale: en
+timezone: America/Los_Angeles
+baseurl:     ""
+url:         "http://camen.tv"
+#url: "//localhost:4000"
+#url: //camentv.github.io/
 
 # Google services
 google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
 google_analytics:
 google_tag_manager:
 # Bing services
@@ -36,13 +38,13 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: camentv
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: joey_camen
 skype_username:
 steam_nickname:
-google_plus_id:
+google_plus_id: +CamenTvComedy
 linkedin_username:
 angellist_username:
 medium_id:
@@ -107,5 +109,7 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-redirect-from
 # https://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]
+exclude: ["vendor", "private/", "lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
